@@ -1,18 +1,13 @@
 # Workflow for Algorithm
 
-This project provides a MATLAB-based workflow for analyzing **nucleotide center of mass (COM)** calculations and **curve fitting** for molecular structures.
+This project provides a **MATLAB-based workflow** for analyzing **nucleotide center of mass (COM) calculations** and **curve fitting** for molecular structures.
 
 ## 📂 Project Structure
 ```
 Workflow_for_Algorithm/
 │── src/
-│   ├── main.m                      # Main execution script
-│   ├── calculate_COM.m              # Function to calculate COM
-│   ├── calculateAllCOM.m            # Batch processing for COM
-│   ├── check_COM_of_helix.m         # Validation of COM calculations
-│   ├── fitted_curve_result_new.m    # Curve fitting analysis
-│   ├── Input_helices_and_nucleotide_indices.m  # Input processing
-│── README.md                        # Project documentation
+│   ├── script_for_evolution_algorithm.m  # Main execution script
+│── README.md                             # Project documentation
 ```
 
 ## 📦 Requirements
@@ -24,22 +19,10 @@ This project requires **MATLAB** with the following toolboxes:
 
 ## 🚀 Usage
 
-### **Run the Main Script**
-To perform the full workflow:
+### **Run the Workflow**
+Simply execute the following command in MATLAB to run the entire workflow:
 ```matlab
-main
-```
-
-### **Calculate Center of Mass**
-To compute the COM for a given nucleotide:
-```matlab
-com = calculate_COM(nucleotide_data);
-```
-
-### **Curve Fitting**
-To analyze the fitted curves:
-```matlab
-fitted_curve_result_new
+script_for_evolution_algorithm
 ```
 
 ## 📊 Expected Output
