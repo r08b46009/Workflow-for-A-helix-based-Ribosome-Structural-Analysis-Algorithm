@@ -48,7 +48,7 @@ Input / output files (expected by the code)
 
 ```matlab
 script_for_evolution_algorithm
-
+```
 ## License
 
 This project is released under the MIT License. See the `LICENSE` file for details.
