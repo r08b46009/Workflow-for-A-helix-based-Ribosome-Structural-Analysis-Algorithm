@@ -1,4 +1,4 @@
-<img width="432" height="11" alt="image" src="https://github.com/user-attachments/assets/b0c14b21-1fd5-4462-bbf0-f6117180a39c" /># Workflow for Algorithm
+Workflow for Algorithm
 
 This repository contains the MATLAB implementation of the workflow of this paper "A-helix Architects the Evolution of the Ribosome." used to compute 3D centers of mass (COM) for rRNA A-helices from PDB structures and to perform the structural distance and curve fitting analyses described in our manuscript.
 
