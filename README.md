@@ -2,8 +2,7 @@ Workflow for Algorithm
 
 This repository contains the MATLAB implementation of the workflow of this paper "A-helix Architects the Evolution of the Ribosome." used to compute 3D centers of mass (COM) for rRNA A-helices from PDB structures and to perform the structural distance and curve fitting analyses described in our manuscript.
 
-The dataset used in this study is available at  
-[Dataset](https://drive.google.com/drive/folders/15ZWkeQTTzB-d7W4T_mcw_NDQwW-FLmlX?usp=sharing).
+The dataset used in this study is available at  [[Dataset]](https://drive.google.com/drive/folders/15ZWkeQTTzB-d7W4T_mcw_NDQwW-FLmlX?usp=sharing).
 
 The code takes ribosomal PDB files as input, computes COM for each A-helix, summarizes COM positions across species, and produces the distance curves used to construct the rAAA / RAP-tree.
 
