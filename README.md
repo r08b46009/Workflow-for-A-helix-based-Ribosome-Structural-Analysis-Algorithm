@@ -4,7 +4,7 @@ This repository contains the MATLAB implementation of the workflow of this paper
 
 [Dataset]
 
-[Dataset] : https://github.com/user-attachments/assets/4991d526-863a-4020-b917-cb0748f41b70
+[Dataset] : [https://drive.google.com/drive/folders/15ZWkeQTTzB-d7W4T_mcw_NDQwW-FLmlX?usp=sharing]
 
 The code takes ribosomal PDB files as input, computes COM for each A-helix, summarizes COM positions across species, and produces the distance curves used to construct the rAAA / RAP-tree.
 
