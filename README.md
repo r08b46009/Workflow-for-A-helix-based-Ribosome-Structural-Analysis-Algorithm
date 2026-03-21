@@ -57,5 +57,4 @@ This project is released under the MIT License. See the `LICENSE` file for detai
 
 ## Visualization
 
-PyMOL scripts for structural visualization are available at:
-https://github.com/r08b46009/pymol-ribosome-visualization
+PyMOL scripts for structural visualization are available at: [[Here]](https://github.com/r08b46009/pymol-ribosome-visualization).
