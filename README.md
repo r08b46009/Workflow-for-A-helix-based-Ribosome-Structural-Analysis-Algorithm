@@ -54,3 +54,8 @@ script_for_evolution_algorithm
 ## License
 
 This project is released under the MIT License. See the `LICENSE` file for details.
+
+## Visualization
+
+PyMOL scripts for structural visualization are available at:
+https://github.com/r08b46009/pymol-ribosome-visualization
