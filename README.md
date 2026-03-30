@@ -18,7 +18,10 @@ The pipeline takes ribosomal PDB structures and helix index tables as input and 
 
 The dataset used in this study is available at  [[Dataset]](https://drive.google.com/drive/folders/15ZWkeQTTzB-d7W4T_mcw_NDQwW-FLmlX?usp=sharing).
 
-The code takes ribosomal PDB files as input, computes COM for each A-helix, summarizes COM positions across species, and produces the distance curves used to construct the rAAA / RAP-tree.
+## Input Data
+
+- Helix index tables should be placed in `input/`
+- Required ribosomal PDB structures should be placed in `pdbs/`
 
 ## Repository contents
 
