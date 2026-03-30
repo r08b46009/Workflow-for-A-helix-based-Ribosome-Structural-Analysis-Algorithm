@@ -14,9 +14,9 @@ The pipeline takes ribosomal PDB structures and helix index tables as input and 
 6. partition COM distances into radial bins
 7. fit structural distribution curves across species
 
-**
+## Dataset
+
 The dataset used in this study is available at  [[Dataset]](https://drive.google.com/drive/folders/15ZWkeQTTzB-d7W4T_mcw_NDQwW-FLmlX?usp=sharing).
-**
 
 The code takes ribosomal PDB files as input, computes COM for each A-helix, summarizes COM positions across species, and produces the distance curves used to construct the rAAA / RAP-tree.
 
