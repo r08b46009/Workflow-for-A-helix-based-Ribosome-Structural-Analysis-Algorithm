@@ -1,6 +1,21 @@
+
+## 🌳 Evolutionary Analysis of A-helix Structural Regions
+
+To compare evolutionary signals across different spatial regions of the large ribosomal subunit, A-core, A-mofa, and A-rest sequences were analyzed separately.
+
+<p align="center">
+  <img src="Unroot_Core.svg" width="750">
+</p>
+
+<p align="center">
+  <em>Phylogenetic trees reconstructed separately from A-core, A-mofa, and A-rest regions.</em>
+</p>
+
+
 ## 📚 Related Publications
 
-1. **Lan, Y.-S., Tu, J.-H., Wang, Y.-C., et al.**  
+1. **Lan, Y.-S., C. H. <img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/d0f85194-2969-42a4-be3b-7306a9962e2b" />
+et al.**  
    [Architectural principles of the ribosomal large subunit revealed by A-helix spatial organization](https://www.nature.com/articles/s41598-026-52028-2)  
    *Scientific Reports*, 2026.  
    DOI: [10.1038/s41598-026-52028-2](https://doi.org/10.1038/s41598-026-52028-2)
