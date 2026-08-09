@@ -106,8 +106,8 @@ To compare evolutionary signals across different spatial regions of the large ri
 
 ## 📚 Related Publications
 
-1. **Lan, Y.-S., Hsiao, C., et al.** <img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/d0f85194-2969-42a4-be3b-7306a9962e2b" />
-et al.**  
+1. **Lan, Y.-S., Hsiao, C., et al.** 
+
    [Architectural principles of the ribosomal large subunit revealed by A-helix spatial organization](https://www.nature.com/articles/s41598-026-52028-2)  
    *Scientific Reports*, 2026.  
    DOI: [10.1038/s41598-026-52028-2](https://doi.org/10.1038/s41598-026-52028-2)
