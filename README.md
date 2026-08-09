@@ -12,7 +12,7 @@ This repository contains the MATLAB implementation used in our study of ribosome
 </p>
 
 <p align="center">
-  <em>Comparative spatial organization of rRNA A-helices across ribosomes from different species and organelles.</em>
+  <em>rRNA A-helix spatial organization relative to the ribosomal center of mass across species and organelles.</em>
 </p>
 
 ## Overview
