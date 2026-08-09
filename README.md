@@ -8,7 +8,7 @@ This repository contains the MATLAB implementation used in our study of ribosome
 </p>
 
 <p align="center">
-  <img src="git" width="750">
+  <img src="git.pdf" width="750">
 </p>
 
 <p align="center">
