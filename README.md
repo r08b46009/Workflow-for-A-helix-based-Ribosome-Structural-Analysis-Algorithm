@@ -2,6 +2,11 @@
 
 This repository contains the MATLAB implementation used in our study of ribosome structural evolution through rRNA A-helices. The workflow computes three-dimensional centers of mass (COM) from ribosomal PDB structures, aggregates A-helix coordinates across species, performs distance-based partitioning, and fits structural distribution curves for downstream comparison.
 
+### 🧬 Ribosome Structural Evolution
+<p align="center">
+  <img src="4v88.gif" width="500">
+</p>
+
 ## Overview
 
 The pipeline takes ribosomal PDB structures and helix index tables as input and performs the following steps:
