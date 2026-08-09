@@ -7,6 +7,9 @@ This repository contains the MATLAB implementation used in our study of ribosome
   <img src="4v88.gif" width="500">
 </p>
 
+  <em>Ribosomal architecture expands revealing a structural trajectory from the center toward the periphery.</em>
+</p>
+
 <p align="center">
   <img src="git.svg" width="750">
 </p>
