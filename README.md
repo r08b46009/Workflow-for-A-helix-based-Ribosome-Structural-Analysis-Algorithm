@@ -1,19 +1,4 @@
 
-## 🌳 Evolutionary Analysis of A-helix Structural Regions
-
-To compare evolutionary signals across different spatial regions of the large ribosomal subunit, A-core, A-mofa, and A-rest sequences were analyzed separately.
-
-<div align="center">
-  <div style="background-color: white; padding: 15px; display: inline-block;">
-    <img src="Unrooted_core.png" width="400">
-  </div>
-</div>
-
-<p align="center">
-  <em>Phylogenetic trees reconstructed separately from A-core, A-mofa, and A-rest regions.</em>
-</p>
-
-
 
 # Workflow for A-helix-Based Ribosome Structural Analysis
 
@@ -102,6 +87,21 @@ Input / output files (expected by the code)
 ```matlab
 script_for_evolution_algorithm
 ```
+## 🌳 Evolutionary Analysis of A-helix Structural Regions
+
+To compare evolutionary signals across different spatial regions of the large ribosomal subunit, A-core, A-mofa, and A-rest sequences were analyzed separately.
+
+<div align="center">
+  <div style="background-color: white; padding: 15px; display: inline-block;">
+    <img src="Unrooted_core.png" width="400">
+  </div>
+</div>
+
+<p align="center">
+  <em>Phylogenetic trees reconstructed separately from A-core, A-mofa, and A-rest regions.</em>
+</p>
+
+
 
 
 ## 📚 Related Publications
