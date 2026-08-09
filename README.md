@@ -3,9 +3,11 @@
 
 To compare evolutionary signals across different spatial regions of the large ribosomal subunit, A-core, A-mofa, and A-rest sequences were analyzed separately.
 
-<p align="center">
-  <img src="Unroot_Core.svg" width="750">
-</p>
+<div align="center">
+  <div style="background-color: white; padding: 15px; display: inline-block;">
+    <img src="Unroot_Core.svg" width="750">
+  </div>
+</div>
 
 <p align="center">
   <em>Phylogenetic trees reconstructed separately from A-core, A-mofa, and A-rest regions.</em>
@@ -14,7 +16,7 @@ To compare evolutionary signals across different spatial regions of the large ri
 
 ## 📚 Related Publications
 
-1. **Lan, Y.-S., C. H. <img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/d0f85194-2969-42a4-be3b-7306a9962e2b" />
+1. **Lan, Y.-S. &  Hsiao, C. <img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/d0f85194-2969-42a4-be3b-7306a9962e2b" />
 et al.**  
    [Architectural principles of the ribosomal large subunit revealed by A-helix spatial organization](https://www.nature.com/articles/s41598-026-52028-2)  
    *Scientific Reports*, 2026.  
