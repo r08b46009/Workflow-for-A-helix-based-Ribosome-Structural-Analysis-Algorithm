@@ -5,7 +5,7 @@ To compare evolutionary signals across different spatial regions of the large ri
 
 <div align="center">
   <div style="background-color: white; padding: 15px; display: inline-block;">
-    <img src="Unrooted_core.png" width="750">
+    <img src="Unrooted_core.png" width="400">
   </div>
 </div>
 
