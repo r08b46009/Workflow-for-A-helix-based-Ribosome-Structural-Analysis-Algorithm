@@ -14,18 +14,6 @@ To compare evolutionary signals across different spatial regions of the large ri
 </p>
 
 
-## 📚 Related Publications
-
-1. **Lan, Y.-S. &  Hsiao, C. <img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/d0f85194-2969-42a4-be3b-7306a9962e2b" />
-et al.**  
-   [Architectural principles of the ribosomal large subunit revealed by A-helix spatial organization](https://www.nature.com/articles/s41598-026-52028-2)  
-   *Scientific Reports*, 2026.  
-   DOI: [10.1038/s41598-026-52028-2](https://doi.org/10.1038/s41598-026-52028-2)
-
-2. **Lan, Y.-S. & Hsiao, C.**  
-   [The RNA A-helix architects the evolution of the ribosome](https://doi.org/10.21203/rs.3.rs-6948671/v1)  
-   *Research Square*, 2025.  
-   DOI: [10.21203/rs.3.rs-6948671/v1](https://doi.org/10.21203/rs.3.rs-6948671/v1)
 
 # Workflow for A-helix-Based Ribosome Structural Analysis
 
@@ -114,6 +102,21 @@ Input / output files (expected by the code)
 ```matlab
 script_for_evolution_algorithm
 ```
+
+
+## 📚 Related Publications
+
+1. **Lan, Y.-S. &  Hsiao, C. et al. <img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/d0f85194-2969-42a4-be3b-7306a9962e2b" />
+et al.**  
+   [Architectural principles of the ribosomal large subunit revealed by A-helix spatial organization](https://www.nature.com/articles/s41598-026-52028-2)  
+   *Scientific Reports*, 2026.  
+   DOI: [10.1038/s41598-026-52028-2](https://doi.org/10.1038/s41598-026-52028-2)
+
+2. **Lan, Y.-S. & Hsiao, C.**  
+   [The RNA A-helix architects the evolution of the ribosome](https://doi.org/10.21203/rs.3.rs-6948671/v1)  
+   *Research Square*, 2025.  
+   DOI: [10.21203/rs.3.rs-6948671/v1](https://doi.org/10.21203/rs.3.rs-6948671/v1)
+
 ## License
 
 This project is released under the MIT License. See the `LICENSE` file for details.
