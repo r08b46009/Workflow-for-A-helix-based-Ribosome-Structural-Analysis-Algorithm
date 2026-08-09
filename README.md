@@ -107,7 +107,6 @@ script_for_evolution_algorithm
 ## 📚 Related Publications
 
 1. **Lan, Y.-S., Hsiao, C., et al.** 
-
    [Architectural principles of the ribosomal large subunit revealed by A-helix spatial organization](https://www.nature.com/articles/s41598-026-52028-2)  
    *Scientific Reports*, 2026.  
    DOI: [10.1038/s41598-026-52028-2](https://doi.org/10.1038/s41598-026-52028-2)
