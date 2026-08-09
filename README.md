@@ -22,7 +22,7 @@ This repository contains the MATLAB implementation used in our study of ribosome
 </p>
 
 
-To compare evolutionary signals across different spatial regions of the large ribosomal subunit, A-core, A-mofa, and A-rest sequences were analyzed separately.
+A-core, A-mofa, and A-rest sequences were analyzed separately to compare evolutionary signals.
 
 <div align="center">
   <div style="background-color: white; padding: 15px; display: inline-block;">
