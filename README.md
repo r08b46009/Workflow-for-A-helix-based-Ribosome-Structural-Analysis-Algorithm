@@ -7,6 +7,14 @@ This repository contains the MATLAB implementation used in our study of ribosome
   <img src="4v88.gif" width="500">
 </p>
 
+<p align="center">
+  <img src="git" width="750">
+</p>
+
+<p align="center">
+  <em>Comparative spatial organization of rRNA A-helices across ribosomes from different species and organelles.</em>
+</p>
+
 ## Overview
 
 The pipeline takes ribosomal PDB structures and helix index tables as input and performs the following steps:
