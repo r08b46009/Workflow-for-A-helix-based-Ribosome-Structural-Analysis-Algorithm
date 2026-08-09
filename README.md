@@ -22,8 +22,6 @@ This repository contains the MATLAB implementation used in our study of ribosome
 </p>
 
 
-A-core, A-mofa, and A-rest sequences were analyzed separately to compare evolutionary signals.
-
 <div align="center">
   <div style="background-color: white; padding: 15px; display: inline-block;">
     <img src="Unrooted_core.png" width="400">
@@ -31,7 +29,7 @@ A-core, A-mofa, and A-rest sequences were analyzed separately to compare evoluti
 </div>
 
 <p align="center">
-  <em>Phylogenetic trees reconstructed separately from A-core, A-mofa, and A-rest regions.</em>
+  <em>A-core, A-mofa, and A-rest sequences were analyzed separately to compare evolutionary signals.</em>
 </p>
 
 
