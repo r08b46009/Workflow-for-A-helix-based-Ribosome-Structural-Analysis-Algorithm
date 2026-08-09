@@ -1,3 +1,15 @@
+## 📚 Related Publications
+
+1. **Lan, Y.-S., Tu, J.-H., Wang, Y.-C., et al.**  
+   [Architectural principles of the ribosomal large subunit revealed by A-helix spatial organization](https://www.nature.com/articles/s41598-026-52028-2)  
+   *Scientific Reports*, 2026.  
+   DOI: [10.1038/s41598-026-52028-2](https://doi.org/10.1038/s41598-026-52028-2)
+
+2. **Lan, Y.-S. & Hsiao, C.**  
+   [The RNA A-helix architects the evolution of the ribosome](https://doi.org/10.21203/rs.3.rs-6948671/v1)  
+   *Research Square*, 2025.  
+   DOI: [10.21203/rs.3.rs-6948671/v1](https://doi.org/10.21203/rs.3.rs-6948671/v1)
+
 # Workflow for A-helix-Based Ribosome Structural Analysis
 
 This repository contains the MATLAB implementation used in our study of ribosome structural evolution through rRNA A-helices. The workflow computes three-dimensional centers of mass (COM) from ribosomal PDB structures, aggregates A-helix coordinates across species, performs distance-based partitioning, and fits structural distribution curves for downstream comparison.
